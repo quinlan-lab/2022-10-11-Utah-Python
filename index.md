@@ -65,8 +65,9 @@ are not using Eventbrite, or leave it in, since it will not be
 displayed if the 'eventbrite' field in the header is not set.
 {% endcomment %}
 
-Registration: https://forms.gle/ZUwan1wRqxDBjfsL8
-Cost: $100; payment can be coordinated through chart fields
+## Registration
+**[Register here](https://forms.gle/ZUwan1wRqxDBjfsL8)**   
+**Cost:** $100; payment can be coordinated through chart fields
 
 {% if page.eventbrite %}
 <strong>Some adblockers block the registration window. If you do not see the
